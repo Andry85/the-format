@@ -1,0 +1,2 @@
+fonts: Driver Gothic Pro, STIXGeneral
+colors: #F7F719
