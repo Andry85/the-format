@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFD400;}
+	.st1{fill:#313FBC;}
+	.st2{fill:#1B3B6B;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#F2F6FC;}
+	.st5{fill:#4A7AFF;}
+	.st6{fill:#2864F0;}
+	.st7{fill:#FA5D0F;}
+	.st8{fill:#EF3800;}
+	.st9{fill:#FFE000;}
+	.st10{fill:#FFC200;}
+	.st11{fill:#FFA426;}
+	.st12{fill:#FF9500;}
+</style>
+<g id="surface1">
+	<path class="st0" d="M512,256c0,141.4-114.6,256-256,256S0,397.4,0,256S114.6,0,256,0S512,114.6,512,256z"/>
+	<rect class="st1" width="512" height="512"/>
+	<polygon class="st2" points="512,212.1 512,512 235.9,512 124.5,400.6 184.3,329.4 255.8,244.3 255.9,244.3 255.9,244.3 
+		269.9,227.6 286.7,207.6 305.7,185 322.5,165 387.5,87.6 	"/>
+	<path class="st3" d="M124.5,87.6h263v313h-263V87.6z"/>
+	<path class="st4" d="M255.8,87.6h131.7v313H255.8V87.6z"/>
+	<path class="st5" d="M299.2,447l-43.3-20l-43.3,20V337.7h86.7L299.2,447L299.2,447z"/>
+	<path class="st6" d="M255.8,427l43.3,20V337.6h-43.5L255.8,427z"/>
+	<path class="st7" d="M333.4,321.8l-14.2,17l3.8,21.8l-20.8,7.6l-7.6,20.8l-21.8-3.8l-17,14.2l-17-14.2L217,389l-7.6-20.8l-20.8-7.6
+		l3.8-21.8l-14.2-17l14.2-17l-3.8-21.8l20.8-7.6l7.6-20.8l21.8,3.8l17-14.2l17,14.2l21.8-3.8l7.6,20.8L323,283l-3.8,21.8
+		L333.4,321.8z"/>
+	<path class="st8" d="M333.4,321.8l-14.2-17L323,283l-20.8-7.6l-7.6-20.8l-21.8,3.8L256,244.3v155.1l16.8-14.1l21.8,3.8l7.6-20.8
+		l20.8-7.6l-3.8-21.8L333.4,321.8z"/>
+	<path class="st9" d="M187.7,125h136.7v20H187.7V125z"/>
+	<path class="st10" d="M255.8,125h68.5v20h-68.5L255.8,125L255.8,125z"/>
+	<path class="st9" d="M155,165h202v20H155V165z"/>
+	<path class="st10" d="M255.8,165H357v20H255.8V165z"/>
+	<path class="st9" d="M155,207.6h202v20H155V207.6z"/>
+	<path class="st10" d="M255.8,207.6H357v20H255.8V207.6z"/>
+	<path class="st11" d="M301.9,321.8c0,25.3-20.5,45.9-45.9,45.9s-45.9-20.5-45.9-45.9S230.7,276,256,276S301.9,296.5,301.9,321.8z"
+		/>
+	<path class="st12" d="M256,276c-0.1,0-0.1,0-0.2,0v91.7c0.1,0,0.1,0,0.2,0c25.3,0,45.9-20.5,45.9-45.9
+		C301.9,296.5,281.3,276,256,276z"/>
+</g>
+</svg>
